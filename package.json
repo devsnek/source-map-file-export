@@ -7,7 +7,7 @@
     "test": "test"
   },
   "bin": {
-    "source-map-file-export": "./source-map-file-export.js",
+    "source-map-file-export": "./source-map-file-export.js"
   },
   "scripts": {
     "test": "node source-map-file-export.js test/index.js.map"
